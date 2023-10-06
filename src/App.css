@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.Accordion-container {
+  top: 300px;
+  left: 700px;
+  position: absolute;
+}
